@@ -1,0 +1,21 @@
+{
+    "description": "Blockchain_1.jpg",
+    "external_url": "",
+    "image": "https://gateway.pinata.cloud/ipfs/QmVrMYU34fhLuST2pYrzh67NeVccTKPe3GRC2Zt9wfeSbT",
+    "name": "NFT_1",
+    "attributes": [
+        {
+            "trait_type": "Author",
+            "value": "Harry Potter"
+        },
+        {
+            "trait_type": "Resolution",
+            "value": "6016px x 3385 px"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Published",
+            "value": 1531951200
+        }
+    ]
+}

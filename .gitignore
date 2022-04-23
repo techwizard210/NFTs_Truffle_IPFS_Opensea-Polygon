@@ -1,6 +1,3 @@
 node_modules
-collection-data/
-nft-data/
 build/contracts/
-.env
 
