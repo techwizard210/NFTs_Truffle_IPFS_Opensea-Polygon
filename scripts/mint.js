@@ -11,7 +11,7 @@ const API_KEY = process.env.NODE_KEY
 
 //* Remember to write the nft address in manually after deploying the contract
 const NFT_CONTRACT_ADDRESS = ""
-const OWNER_ADDRESS = "0xdc0f7E9322a72a518A34597D33FBA5c900D8F631";
+const OWNER_ADDRESS = "";
 const MUMBAI = `https://rpc-mumbai.maticvigil.com/v1/${API_KEY}`
 const MATIC = `https://rpc-mainnet.maticvigil.com/v1/${API_KEY}`
 const NUM_ITEMS = 5;
