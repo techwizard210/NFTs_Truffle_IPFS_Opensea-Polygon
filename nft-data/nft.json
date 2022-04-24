@@ -1,0 +1,21 @@
+{
+    "description": "Example NFT #2.jpg",
+    "external_url": "",
+    "image": "https://gateway.pinata.cloud/ipfs/QmUJyuHcNWQVquXG5VpEPJ7Dc1nzheCxfhPfrQBhBCqvet",
+    "name": "NFT_2",
+    "attributes": [
+        {
+            "trait_type": "Author",
+            "value": "Harry Potter"
+        },
+        {
+            "trait_type": "Resolution",
+            "value": "6016px x 3385 px"
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Published",
+            "value": 1531951200
+        }
+    ]
+}
