@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "truffle-config.js",
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start"
+  },
   "dependencies": {
     "@openzeppelin/contracts": "^4.3.0",
     "@truffle/hdwallet-provider": "^1.4.0",
